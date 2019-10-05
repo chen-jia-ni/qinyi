@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/artisan/model/PageBean.java=gbk
+encoding//src/com/artisan/util/DbUtil.java=gbk
+encoding//src/com/artisan/util/StringUtil.java=gbk
+encoding//src/com/artisan/web/CommentServlet.java=gbk
+encoding//src/com/artisan/web/LinkServlet.java=gbk
+encoding//src/com/artisan/web/NewsServlet.java=gbk
+encoding//src/com/artisan/web/NewsTypeServlet.java=gbk
+encoding//src/com/artisan/web/UserServlet.java=gbk
